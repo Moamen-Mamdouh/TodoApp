@@ -1,0 +1,16 @@
+2024-12-20 10:50:30.7353|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Create Todo Item Command Cost Time : 617.0166 ms | 
+2024-12-20 10:50:35.1202|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query Cost Time : 207.415 ms | 
+2024-12-20 10:53:41.4144|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Create Todo Item Command Cost Time : 574.3552 ms | 
+2024-12-20 10:53:45.0957|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query Cost Time : 231.865 ms | 
+2024-12-20 10:54:44.7210|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Create Todo Item Command Cost Time : 670.1145 ms | 
+2024-12-20 10:54:48.4922|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query Cost Time : 192.7345 ms | 
+2024-12-20 10:56:08.2863|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Create Todo Item Command Cost Time : 706.5101 ms | 
+2024-12-20 10:56:11.7071|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query Cost Time : 246.7921 ms | 
+2024-12-20 10:56:20.6732|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|MarkTodoItemAsCompletedCommand { Id = 1 } | Mark Todo Item As Completed Command Cost Time : 61.1416 ms | 
+2024-12-20 10:56:23.9420|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query Cost Time : 4.1895 ms | 
+2024-12-20 10:56:25.0322|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query Cost Time : 4.2473 ms | 
+2024-12-20 10:56:25.5311|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query Cost Time : 0.709 ms | 
+2024-12-20 10:59:54.1711|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Create Todo Item Command Cost Time : 4313.962 ms | 
+2024-12-20 10:59:58.0276|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query Cost Time : 204.3063 ms | 
+2024-12-20 11:00:05.8868|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|MarkTodoItemAsCompletedCommand { Id = 1 } | Mark Todo Item As Completed Command Cost Time : 63.8003 ms | 
+2024-12-20 11:00:08.4518|Debug|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query Cost Time : 5.9423 ms | 

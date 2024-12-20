@@ -1,0 +1,32 @@
+2024-12-20 10:50:30.0110|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Begin To Execute Create Todo Item Command | 
+2024-12-20 10:50:30.7353|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Create Todo Item Command has been finished successfully | 
+2024-12-20 10:50:34.9107|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Begin To Execute Get Todo Items Query | 
+2024-12-20 10:50:35.1202|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query has been finished successfully | 
+2024-12-20 10:53:40.7944|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Begin To Execute Create Todo Item Command | 
+2024-12-20 10:53:41.4144|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Create Todo Item Command has been finished successfully | 
+2024-12-20 10:53:44.8617|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Begin To Execute Get Todo Items Query | 
+2024-12-20 10:53:45.0957|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query has been finished successfully | 
+2024-12-20 10:54:44.0130|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Begin To Execute Create Todo Item Command | 
+2024-12-20 10:54:44.7210|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Create Todo Item Command has been finished successfully | 
+2024-12-20 10:54:48.2978|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Begin To Execute Get Todo Items Query | 
+2024-12-20 10:54:48.4922|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query has been finished successfully | 
+2024-12-20 10:56:07.5363|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Begin To Execute Create Todo Item Command | 
+2024-12-20 10:56:08.2863|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Create Todo Item Command has been finished successfully | 
+2024-12-20 10:56:11.4585|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Begin To Execute Get Todo Items Query | 
+2024-12-20 10:56:11.7071|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query has been finished successfully | 
+2024-12-20 10:56:20.6103|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|MarkTodoItemAsCompletedCommand { Id = 1 } | Begin To Execute Mark Todo Item As Completed Command | 
+2024-12-20 10:56:20.6732|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|MarkTodoItemAsCompletedCommand { Id = 1 } | Mark Todo Item As Completed Command has been finished successfully | 
+2024-12-20 10:56:23.9420|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Begin To Execute Get Todo Items Query | 
+2024-12-20 10:56:23.9501|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query has been finished successfully | 
+2024-12-20 10:56:25.0322|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Begin To Execute Get Todo Items Query | 
+2024-12-20 10:56:25.0322|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query has been finished successfully | 
+2024-12-20 10:56:25.5311|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Begin To Execute Get Todo Items Query | 
+2024-12-20 10:56:25.5311|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query has been finished successfully | 
+2024-12-20 10:59:49.8167|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Begin To Execute Create Todo Item Command | 
+2024-12-20 10:59:54.1711|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|CreateTodoItemCommand { Title = string, Description = string } | Create Todo Item Command has been finished successfully | 
+2024-12-20 10:59:57.8210|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Begin To Execute Get Todo Items Query | 
+2024-12-20 10:59:58.0299|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query has been finished successfully | 
+2024-12-20 11:00:05.8206|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|MarkTodoItemAsCompletedCommand { Id = 1 } | Begin To Execute Mark Todo Item As Completed Command | 
+2024-12-20 11:00:05.8881|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|MarkTodoItemAsCompletedCommand { Id = 1 } | Mark Todo Item As Completed Command has been finished successfully | 
+2024-12-20 11:00:08.4518|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Begin To Execute Get Todo Items Query | 
+2024-12-20 11:00:08.4518|Info|NitajTodoApp.Application.Behaviors.LoggerPipeLineBehavior`2.Handle|GetTodoItemsQuery { GetPendingOnly = False } | Get Todo Items Query has been finished successfully | 

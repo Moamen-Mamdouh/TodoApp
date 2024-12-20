@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "NitajTodoApp.Presentation.Controllers.TodoItemController",
+    "Method": "Create",
+    "RelativePath": "api/todo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "NitajTodoApp.Application.Features.TodoItems.Commands.Create.CreateTodoItemCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NitajTodoApp.Presentation.Controllers.TodoItemController",
+    "Method": "Get",
+    "RelativePath": "api/todo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NitajTodoApp.Presentation.Controllers.TodoItemController",
+    "Method": "MarkAsCompleted",
+    "RelativePath": "api/todo/{id}/complete",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NitajTodoApp.Presentation.Controllers.TodoItemController",
+    "Method": "GetPending",
+    "RelativePath": "api/todo/pending",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

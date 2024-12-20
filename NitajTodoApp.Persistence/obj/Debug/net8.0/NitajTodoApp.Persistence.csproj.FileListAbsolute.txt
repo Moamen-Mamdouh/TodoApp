@@ -1,0 +1,17 @@
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\bin\Debug\net8.0\NitajTodoApp.Persistence.deps.json
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\bin\Debug\net8.0\NitajTodoApp.Persistence.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\bin\Debug\net8.0\NitajTodoApp.Persistence.pdb
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\bin\Debug\net8.0\NitajTodoApp.Domain.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\bin\Debug\net8.0\NitajTodoApp.Domain.pdb
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\obj\Debug\net8.0\NitajTodoApp.Persistence.csproj.AssemblyReference.cache
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\obj\Debug\net8.0\NitajTodoApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\obj\Debug\net8.0\NitajTodoApp.Persistence.AssemblyInfoInputs.cache
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\obj\Debug\net8.0\NitajTodoApp.Persistence.AssemblyInfo.cs
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\obj\Debug\net8.0\NitajTodoApp.Persistence.csproj.CoreCompileInputs.cache
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\obj\Debug\net8.0\NitajTod.22FBB733.Up2Date
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\obj\Debug\net8.0\NitajTodoApp.Persistence.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\obj\Debug\net8.0\refint\NitajTodoApp.Persistence.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\obj\Debug\net8.0\NitajTodoApp.Persistence.pdb
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\obj\Debug\net8.0\ref\NitajTodoApp.Persistence.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\bin\Debug\net8.0\NitajTodoApp.Application.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Persistence\bin\Debug\net8.0\NitajTodoApp.Application.pdb

@@ -1,0 +1,15 @@
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\bin\Debug\net8.0\NitajTodoApp.Application.deps.json
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\bin\Debug\net8.0\NitajTodoApp.Application.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\bin\Debug\net8.0\NitajTodoApp.Application.pdb
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\bin\Debug\net8.0\NitajTodoApp.Domain.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\bin\Debug\net8.0\NitajTodoApp.Domain.pdb
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\obj\Debug\net8.0\NitajTodoApp.Application.csproj.AssemblyReference.cache
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\obj\Debug\net8.0\NitajTodoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\obj\Debug\net8.0\NitajTodoApp.Application.AssemblyInfoInputs.cache
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\obj\Debug\net8.0\NitajTodoApp.Application.AssemblyInfo.cs
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\obj\Debug\net8.0\NitajTodoApp.Application.csproj.CoreCompileInputs.cache
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\obj\Debug\net8.0\NitajTod.EA70902C.Up2Date
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\obj\Debug\net8.0\NitajTodoApp.Application.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\obj\Debug\net8.0\refint\NitajTodoApp.Application.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\obj\Debug\net8.0\NitajTodoApp.Application.pdb
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Application\obj\Debug\net8.0\ref\NitajTodoApp.Application.dll

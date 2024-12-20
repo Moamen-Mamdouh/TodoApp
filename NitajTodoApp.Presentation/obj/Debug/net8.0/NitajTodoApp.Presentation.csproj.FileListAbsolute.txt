@@ -1,0 +1,17 @@
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\bin\Debug\net8.0\NitajTodoApp.Presentation.deps.json
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\bin\Debug\net8.0\NitajTodoApp.Presentation.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\bin\Debug\net8.0\NitajTodoApp.Presentation.pdb
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\bin\Debug\net8.0\NitajTodoApp.Application.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\bin\Debug\net8.0\NitajTodoApp.Domain.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\bin\Debug\net8.0\NitajTodoApp.Application.pdb
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\bin\Debug\net8.0\NitajTodoApp.Domain.pdb
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\obj\Debug\net8.0\NitajTodoApp.Presentation.csproj.AssemblyReference.cache
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\obj\Debug\net8.0\NitajTodoApp.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\obj\Debug\net8.0\NitajTodoApp.Presentation.AssemblyInfoInputs.cache
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\obj\Debug\net8.0\NitajTodoApp.Presentation.AssemblyInfo.cs
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\obj\Debug\net8.0\NitajTodoApp.Presentation.csproj.CoreCompileInputs.cache
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\obj\Debug\net8.0\NitajTod.5A028C5D.Up2Date
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\obj\Debug\net8.0\NitajTodoApp.Presentation.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\obj\Debug\net8.0\refint\NitajTodoApp.Presentation.dll
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\obj\Debug\net8.0\NitajTodoApp.Presentation.pdb
+D:\Training\Back-End\Private\NitajTodoApp\NitajTodoApp.Presentation\obj\Debug\net8.0\ref\NitajTodoApp.Presentation.dll

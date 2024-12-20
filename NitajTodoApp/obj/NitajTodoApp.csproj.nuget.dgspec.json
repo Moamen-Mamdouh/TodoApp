@@ -1,0 +1,425 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp\\NitajTodoApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Application\\NitajTodoApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Application\\NitajTodoApp.Application.csproj",
+        "projectName": "NitajTodoApp.Application",
+        "projectPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Application\\NitajTodoApp.Application.csproj",
+        "packagesPath": "C:\\Users\\moamen.mamdouh\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\moamen.mamdouh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Domain\\NitajTodoApp.Domain.csproj": {
+                "projectPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Domain\\NitajTodoApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.4.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Domain\\NitajTodoApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Domain\\NitajTodoApp.Domain.csproj",
+        "projectName": "NitajTodoApp.Domain",
+        "projectPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Domain\\NitajTodoApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\moamen.mamdouh\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\moamen.mamdouh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "LinqKit": {
+              "target": "Package",
+              "version": "[1.3.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Persistence\\NitajTodoApp.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Persistence\\NitajTodoApp.Persistence.csproj",
+        "projectName": "NitajTodoApp.Persistence",
+        "projectPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Persistence\\NitajTodoApp.Persistence.csproj",
+        "packagesPath": "C:\\Users\\moamen.mamdouh\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\moamen.mamdouh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Application\\NitajTodoApp.Application.csproj": {
+                "projectPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Application\\NitajTodoApp.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Presentation\\NitajTodoApp.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Presentation\\NitajTodoApp.Presentation.csproj",
+        "projectName": "NitajTodoApp.Presentation",
+        "projectPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Presentation\\NitajTodoApp.Presentation.csproj",
+        "packagesPath": "C:\\Users\\moamen.mamdouh\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\moamen.mamdouh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Application\\NitajTodoApp.Application.csproj": {
+                "projectPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Application\\NitajTodoApp.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp\\NitajTodoApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp\\NitajTodoApp.csproj",
+        "projectName": "NitajTodoApp",
+        "projectPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp\\NitajTodoApp.csproj",
+        "packagesPath": "C:\\Users\\moamen.mamdouh\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\moamen.mamdouh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Application\\NitajTodoApp.Application.csproj": {
+                "projectPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Application\\NitajTodoApp.Application.csproj"
+              },
+              "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Persistence\\NitajTodoApp.Persistence.csproj": {
+                "projectPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Persistence\\NitajTodoApp.Persistence.csproj"
+              },
+              "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Presentation\\NitajTodoApp.Presentation.csproj": {
+                "projectPath": "D:\\Training\\Back-End\\Private\\NitajTodoApp\\NitajTodoApp.Presentation\\NitajTodoApp.Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "Mapster.DependencyInjection": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.3.4, )"
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.3.15, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
